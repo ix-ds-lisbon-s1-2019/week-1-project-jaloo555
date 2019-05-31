@@ -4,7 +4,7 @@ Here is the repo with the project brief and where you should push your final pok
 
 The deadline is **tomorrow (Friday) the 31st of May at 8pm**.
 
-[Detailed explanation of the code](https://jaloo555.github.io/2019/05/28/poker/)
+[Detailed explanation of the code - AKA My Blog](https://jaloo555.github.io/2019/05/28/poker/)
 
 [Actual repository](https://github.com/jaloo555/Poker)
 
