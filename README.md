@@ -8,3 +8,15 @@ The deadline is **tomorrow (Friday) the 31st of May at 8pm**.
 
 [Actual repository](https://github.com/jaloo555/Poker)
 
+------------------------------------------------------------------------------------------------
+# Feedback: 
+------------------------------------------------------------------------------------------------
+
+| Section | Mark | 
+|---|---| 
+| Blog | 100% | 
+| Poker Game | 100% |
+||| 
+| Total/100% | 100% | 
+
+Ignore my feedback on your actual repo bru, I see that you fixed what I reference their. Amazing work my dude.
